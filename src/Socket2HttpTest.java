@@ -26,17 +26,17 @@ public final class Socket2HttpTest {
                 "\t\t<root>\n" +
                 "\t\t\t<msgHead>\n" +
                 "\t\t\t\t<time>2020-01-09T13:10:15</time>\n" +
-                "\t\t\t\t<source>CRM.BSS@js.cn</source>\n" +
-                "\t\t\t\t<target>OD.OSS@js.cn</target>\n" +
+                "\t\t\t\t<source>xxxx@j1s.cn</source>\n" +
+                "\t\t\t\t<target>vvvv@j2s.cn</target>\n" +
                 "\t\t\t</msgHead>\n" +
                 "\t\t\t<msgBody>\n" +
                 "\t\t\t\t<areaCode>gy.yz.js.cn</areaCode>\n" +
                 "\t\t\t\t<boIds>\n" +
                 "\t\t\t\t\t<boId>14000157032709_0</boId>\n" +
                 "\t\t\t\t</boIds>\n" +
-                "\t\t\t\t<staffName>徐迎</staffName>\n" +
+                "\t\t\t\t<staffName>xxx</staffName>\n" +
                 "\t\t\t\t<staffNumber>GY9381</staffNumber>\n" +
-                "\t\t\t\t<staffId>1000000000036393</staffId>\n" +
+                "\t\t\t\t<staffId>1000000036393</staffId>\n" +
                 "\t\t\t\t<channelId>16169846</channelId>\n" +
                 "\t\t\t</msgBody>\n" +
                 "\t\t</root>\n" +
