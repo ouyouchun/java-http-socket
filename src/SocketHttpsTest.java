@@ -25,9 +25,9 @@ public final class SocketHttpsTest {
                 "    \"Request\": {\n" +
                 "        \"userCode\": \"111724702559\",\n" +
                 "        \"userType\": \"1\",\n" +
-                "        \"busiCode\": \"OPR_POS_REQ\",\n" +
+                "        \"busiCode\": \"OPR_PO11S_REQ\",\n" +
                 "        \"hallId\": \"13188694\",\n" +
-                "        \"operId\": \"ZHAOWG\",\n" +
+                "        \"operId\": \"ZHAO1WG\",\n" +
                 "        \"oprPosCode\": \"2001\",\n" +
                 "        \"cityId\": \"0511\"\n" +
                 "    }\n" +
